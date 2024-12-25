@@ -1,0 +1,10 @@
+div img{
+    height: 400px;
+    width: 200px;
+   ;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
